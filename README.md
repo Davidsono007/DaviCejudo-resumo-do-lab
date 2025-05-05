@@ -1,4 +1,6 @@
-# DaviCejudo-resumo-do-lab
+## DaviCejudo-resumo-do-lab
+
+# Aula 1
 
 *Nuvem pública*
 - Sem despesas
@@ -21,4 +23,26 @@
 - Gastos operacionais
 - Cobrados imediatamente
 
+# Aula 2
 
+*Escalabilidade*
+- Capacidade de ajustar recursos
+
+*Elasticidade*
+- Capacidade de expandir e diminuir escopo
+
+*Confiabilidade*
+- A nuvem da suporte a um design confiável e resiliente graças ao seu modelo descentralizado
+
+*Previsibilidade*
+- Previsível
+
+*Segurança*
+
+*Governança*
+- Estratégias de mitigação
+- Atualizações automática
+
+*Gerenciabilidade*
+- Alta capacidade de gerenciamento
+- Escalação automática
