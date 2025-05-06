@@ -46,3 +46,18 @@
 *Gerenciabilidade*
 - Alta capacidade de gerenciamento
 - Escalação automática
+
+# Aula 4
+*IaaS (Infraestrutura como serviço)*
+- Cria uma infraestrutura conforme o uso, alugando servidores e máquinas virtuais, armazenamento etc.
+- - Mais flexível
+
+*PaaS (Plataforma como serviço)*
+- Oferece um ambiente para criação, teste e implantação de softwares.
+- Focado no desenvolvimento de apps
+
+*Saas (Software como serviço)*
+- Usuários podem usar aplicativos pela internet.
+- Modelo de assinatura
+
+
