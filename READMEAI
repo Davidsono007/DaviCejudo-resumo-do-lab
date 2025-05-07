@@ -7,5 +7,39 @@
 
 - Machine Learning
  - Modelo preditivo
+ - Visão computaciona = Capacidade de interpretar o mundo
+ - Inteligência de  documenros
+ - Mineração de conhecimento
 
-- 
+- IA generativa
+- Imparcialidade (Sem nenhum tipo de preconceito)
+- Confiabilidade e segurança
+- Privacidade e segurança
+- Inclusão e transparência
+- Responsabilidade
+
+
+# PROCESSAMENTO DE LINGUAGEM NATURAL
+
+- Raw text -> Tokenization -> Language model -> Text Analysis -> Opinion mining -> Machine translation -> Summarization -> Conversational AI
+- Azure define NER (Reconhecimento de Entidade Nomeada) por: 
+ - Event
+ - Location
+ - Datetime
+ - URL
+ - Phonenumber
+ - Email
+ - Organization
+ - Sentence sentiment
+ - Opinion
+
+# INTELIGÊNCIA DE DOCUMENTOS
+
+- Ler campos chave de documentos
+- Extrair informações de documentos digitais
+
+# OPEN AI DO AZURE
+
+- Soluções em nuvem
+- LLMs (Large Language Models)
+- Recebe Prompts
